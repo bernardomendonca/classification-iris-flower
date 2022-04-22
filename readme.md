@@ -54,3 +54,23 @@ And also its classification report:
 weighted avg       0.93      0.93      0.93        45
 ```
 
+# How to make your own predictions?
+
+If you want to make a classifiction, you can uncomment the features and add your own measurements to check which species your iris belongs to
+
+```
+# uncomment and *write down the features here*
+# sepal_length = 
+# sepal_width = 
+# petal_length = 
+# petal_width = 
+```
+
+## Libraries Used
+
+| Name | Library |
+| ------ | ------ |
+| Pandas | https://pandas.pydata.org/ |
+| Matplotlib | https://matplotlib.org/ |
+| Seaborn | https://seaborn.pydata.org/ |
+| SciKitLearn | https://scikit-learn.org/stable/ |

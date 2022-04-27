@@ -19,7 +19,7 @@ The four features of the Iris dataset:
 
 ## What's the correlation between species and the features measured?
 
-![species_features](./speacies_features.png)
+![species_features](./species_features.png)
 
 # Working on the model
 
